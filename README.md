@@ -1,10 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 ### My name is Matheus Zidane Vidal Ferro.
 ### I'm from Brazil.
 ### I'm currently studying to be a developer.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszvidal)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/matheuszvidal"><img src="https://api.daily.dev/devcards/e6a60d3e68ad42808cb2d00db5dcf2e1.png?r=la2" width="400" alt="Matheus Vidal's Dev Card"/></a>
 <!--
